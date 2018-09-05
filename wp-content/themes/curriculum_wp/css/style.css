@@ -1,0 +1,59 @@
+/* Global Styles */
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400,700,900');
+
+body {
+	margin: 0px;
+	padding: 0px;
+}
+
+h1{
+	font-family: 'Lato 900', sans-serif; 
+	color: #2d3047;
+}
+
+h2{
+	font-family: 'Lato 700', sans-serif;
+	padding-bottom: 30px;
+	padding-top: 30px;
+	color: #071013;
+
+}
+
+h4{
+	font-family: 'Lato 400', sans-serif;
+	color: #071013;
+}
+
+p{
+	font-family: 'Lato 300', sans-serif;
+	color: #071013;
+}
+.acerca{
+	background: #7cea9c;
+	padding-top: 80px;
+	padding-left: 100px;
+	position: fixed;
+	height: 100vh;
+
+} 
+
+.resumen{
+	padding-left: 80px;
+
+}
+
+.datos{
+	padding-top: 80px;
+
+}
+
+.texto{
+	padding-bottom: 50px;
+	padding-top: 50px;
+}
+
+.iconos a{
+    color: #2d3047;
+    font-size: 50px;
+}
+
